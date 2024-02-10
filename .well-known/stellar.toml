@@ -1,0 +1,12 @@
+NETWORK_PASSPHRASE = "Public Global Stellar Network ; September 2015"
+ACCOUNTS = [
+    "GD6OGC363WY7GZ4CRL2HXC4HT4NEF3HXU4TU72R6BBZBUTXCMUUSOLAR"
+]
+
+[DOCUMENTATION]
+ORG_NAME = "Montelibero Solar Team"
+ORG_URL = "https://solar.montelibero.org/"
+ORG_LOGO = "https://solar.montelibero.org/stellar-logo.png"
+ORG_DESCRIPTION = "MTL Solar Wallet Development Fund"
+ORG_PHYSICAL_ADDRESS = "Montenegro"
+ORG_OFFICIAL_EMAIL = "solar@montelibero.org"
